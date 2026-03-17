@@ -11,20 +11,12 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+My name is Jonathan Fleming and I'm a second-year Master of Arts Management student at Carnegie Mellon University. Having studied euphonium performance at both Towson University and Carnegie Mellon, I have a varied background in performance and teaching, including solo and chamber recitals, freelance performances across the Maryland region. I hope to translate these experiences into the art management field and work toward making the arts more accessible for everyone
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Through this course, I am hoping to deepen my ability to connect analysis with real-world arts management, particularly in areas like audience development, fundraising, and community engagement. I’m especially interested in how data, and strategy can work together to build more equitable and sustainable arts ecosystems.
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+After graduating, I plan to pursue a career in arts administration where I can contribute to expanding access to the arts and supporting organizations in becoming more inclusive and community-centered.
 
 # Portfolio
 
