@@ -43,7 +43,7 @@ https://journals.sagepub.com/doi/10.1177/00224294231218272
 HOW to attract new audiences (diversity is a huge factor here): https://symphony.org/features/a-guide-to-diversifying-orchestra-audiences/
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I plan on creating all relvant graphics in tableau and inputting them with supporting data to make an interactive site via shorthand.
 
 
 ## References
@@ -51,7 +51,7 @@ https://journals.sagepub.com/doi/10.1177/00224294231218272
 https://blog.thoroughlygood.me/2024/06/04/donnes-equality-and-diversity-in-global-repertoire-report-highlights-the-ongoing-gender-gap-in-classical-music-concert-programming
 https://symphony.org/features/a-guide-to-diversifying-orchestra-audiences/
 https://americanorchestras.org/learn/edi-data-hub/musician-diversity/
-https://americanorchestras.org/wp-content/uploads/2023/06/Racial-Ethnic-and-Gender-Diversity-in-the-Orchestra-Field-in-2023.pdf<img 
+https://americanorchestras.org/wp-content/uploads/2023/06/Racial-Ethnic-and-Gender-Diversity-in-the-Orchestra-Field-in-2023.pdf 
 
 ## AI acknowledgements
 AI was used to help me scan the internet for resources and relevant data.
