@@ -18,7 +18,7 @@ From there, the project will move into a problem-identification section focused 
 
 The next section serves as a turning point in the narrative, reframing the issue. Rather than attributing disparities to audience behavior, the project will shift focus to representation within the field itself. This leads into two core analytical sections: representation on stage (musicians, conductors, and leadership) and representation in programming (composer demographics and repertoire trends). These sections will use comparative and trend-based visualizations to demonstrate that classical music institutions themselves reflect a narrow set of identities and perspectives.
 
-Following this, the project will enter a synthesis and connection phase, where data across these areas is brought together. This section will explore the relationship between representation and audience engagement, using comparative visuals or case-based examples to suggest that who is represented on stage and in programming influences who feels included in the audience. This is where the central argument becomes most explicit.
+Following this, the project will then begin connecting all the dots. The last section will explore the relationship between representation and audience engagement, using comparative visuals or case-based examples to suggest that who is represented on stage and in programming influences who feels included in the audience.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -44,7 +44,6 @@ HOW to attract new audiences (diversity is a huge factor here): https://symphony
 
 # Method and medium
 I plan on creating all relvant graphics in tableau and inputting them with supporting data to make an interactive site via shorthand.
-
 
 ## References
 https://journals.sagepub.com/doi/10.1177/00224294231218272
