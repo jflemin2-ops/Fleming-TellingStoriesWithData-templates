@@ -23,7 +23,10 @@ Following this, the project will then begin connecting all the dots. The last se
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+[IMG_0293.pdf](https://github.com/user-attachments/files/26648794/IMG_0293.pdf)
+
+
+[IMG_0294.pdf](https://github.com/user-attachments/files/26648795/IMG_0294.pdf)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
