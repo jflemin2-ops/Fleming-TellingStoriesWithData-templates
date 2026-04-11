@@ -4,8 +4,8 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-This project explores how representation within classical music influences audience engagement, with a particular focus on women and minority communities. While classical music is often positioned as a universal art form, participation and attendance patterns show universally that it does not reach all audiences equally. I am interested in showcasing how much of this disparity is connected to a lack of representation both on stage (composers, performers, programming) and within institutional leadership.
-Using data on orchestra programming, artist demographics, audience demographics, and attendance trends, I plan on highlighting the relationship between representation and engagement. For example, I aim to explore questions such as: Do orchestras that program more works by women and composers of color see differences in audience diversity? Are there measurable gaps between who performs and who attends? How do these patterns vary across regions or institutions?
+This project is meant to explore how representation within classical music influences audience engagement/visitation, with a particular focus on women and minority communities. While classical music is often positioned as a universal art form, participation and attendance patterns show universally that it does not reach all audiences equally. I am interested in showcasing how much of this disparity is connected to a lack of representation both on stage (composers, performers, programming) and within institutional leadership.
+Using data on orchestra programming, artist demographics, audience demographics, and attendance trends, I plan on highlighting the relationship between representation and overall engagement. For example, I aim to explore questions such like: "Do orchestras that program more works by women and composers of color see differences in audience diversity?" "Are there measurable gaps between who performs and who attends? How do these patterns vary across regions or institutions?"
 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
@@ -53,4 +53,4 @@ https://americanorchestras.org/learn/edi-data-hub/musician-diversity/
 https://americanorchestras.org/wp-content/uploads/2023/06/Racial-Ethnic-and-Gender-Diversity-in-the-Orchestra-Field-in-2023.pdf 
 
 ## AI acknowledgements
-AI was used to help me scan the internet for resources and relevant data.
+AI was used to help me scan the internet for resources and relevant data. Gemini in-browser was used on The Leage of American Orchestra's website to find links to their audience segmentation data
