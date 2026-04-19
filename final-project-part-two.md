@@ -30,7 +30,7 @@ Representation in classical music extends beyond who performs and is also reflec
 
 When these elements are considered together—who performs, what is programmed, and who attends—a clear relationship begins to emerge. Representation within institutions appears to shape audience engagement, not just reflect it. If the people on stage and the stories being told do not resonate with diverse audiences, it becomes less likely that those audiences will feel a sense of belonging in these spaces. This suggests that disparities in attendance are not simply about interest, but about alignment between institutions and the communities they aim to serve.
 
-8. Conclusion — “It’s Not Who Isn’t Showing Up—It’s Who’s Not Represented”
+8. Conclusion — “It’s Not Who Isn’t Showing Up, It’s Who’s Not Represented”
 
 Ultimately, this project reframes the conversation around classical music audiences. Rather than viewing underrepresentation as a failure of engagement, it highlights how institutional structures and representation shape access and participation. Expanding representation—through programming, performers, and leadership—has the potential to create more inclusive and welcoming spaces. In this way, diversity is not only an ethical goal, but a necessary step toward building more sustainable and engaged audiences for the future.
 
