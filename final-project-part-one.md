@@ -1,8 +1,5 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 This project is meant to explore how representation within classical music influences audience engagement/visitation, with a particular focus on women and minority communities. While classical music is often positioned as a universal art form, participation and attendance patterns show universally that it does not reach all audiences equally. I am interested in showcasing how much of this disparity is connected to a lack of representation both on stage (composers, performers, programming) and within institutional leadership.
 Using data on orchestra programming, artist demographics, audience demographics, and attendance trends, I plan on highlighting the relationship between representation and overall engagement. For example, I aim to explore questions such like: "Do orchestras that program more works by women and composers of color see differences in audience diversity?" "Are there measurable gaps between who performs and who attends? How do these patterns vary across regions or institutions?"
