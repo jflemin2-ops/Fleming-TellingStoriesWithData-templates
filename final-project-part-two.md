@@ -49,8 +49,6 @@ Does the story feel engaging and persuasive, or are there areas where it loses m
 The goal here was mainly to get feedback on clarity and story structure as visualizations were not nearly as fleshed out.
 
 
-Text here!
-
 ## Interview findings
 
 Across peer feedback, a consistent takeaway was that the overall story structure is clear, logical, and more engaging than initially expected. Reviewers found the narrative arc—moving from the assumption of universality, to identifying audience disparities, and then reframing the issue around representation—to be easy to follow and compelling. This was especially encouraging, as I had been concerned that the essay-like structure might feel too dense or academic. Instead, feedback suggested that the progression felt natural and helped guide the viewer through the argument without confusion.
@@ -65,10 +63,6 @@ Based on the feedback received, I plan to focus on refining both the clarity of 
 First, I will begin on my data viz and ensure that each chart communicates a single, clear takeaway. This includes refining chart types where necessary, improving labeling, and establishing a consistent color scheme across all visuals. I also plan to add brief annotations or callouts to guide the viewer’s attention to key insights, making the visuals more intuitive and reducing the need for additional explanation.
 
 Second, I will restructure my data into clean, organized .csv files to better support visualization in Tableau. I'll have to consolidate key data points from reports into structured datasets that allow for easier manipulation, comparison, and consistency across charts. Improving my data organization will help streamline the visualization process and result in more polished, accurate outputs.
-
-
-## References
-_List any references you used here._
 
 ## AI acknowledgements
 AI was used to come up with questions for the interview section.
