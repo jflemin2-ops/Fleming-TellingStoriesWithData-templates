@@ -4,9 +4,6 @@
 This project is meant to explore how representation within classical music influences audience engagement/visitation, with a particular focus on women and minority communities. While classical music is often positioned as a universal art form, participation and attendance patterns show universally that it does not reach all audiences equally. I am interested in showcasing how much of this disparity is connected to a lack of representation both on stage (composers, performers, programming) and within institutional leadership.
 Using data on orchestra programming, artist demographics, audience demographics, and attendance trends, I plan on highlighting the relationship between representation and overall engagement. For example, I aim to explore questions such like: "Do orchestras that program more works by women and composers of color see differences in audience diversity?" "Are there measurable gaps between who performs and who attends? How do these patterns vary across regions or institutions?"
 
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
 This won’t be a traditional story in a sense, but will have overarching themes and flow like a persuasive essay. The project will follow a clear narrative arc that introduces a commonly held assumption, challenges it with data, and then builds toward a broader insight about representation and engagement in classical music.
 
 The project will begin with a hook and framing section that presents classical music as a widely understood “universal” art form. This section will introduce initial audience demographic data to show that, in practice, participation is not evenly distributed. This establishes the central tension of the project: if classical music is for everyone, why do audiences not reflect that?
@@ -18,7 +15,6 @@ The next section serves as a turning point in the narrative, reframing the issue
 Following this, the project will then begin connecting all the dots. The last section will explore the relationship between representation and audience engagement, using comparative visuals or case-based examples to suggest that who is represented on stage and in programming influences who feels included in the audience.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 [IMG_0293.pdf](https://github.com/user-attachments/files/26648794/IMG_0293.pdf)
 
@@ -26,7 +22,6 @@ Following this, the project will then begin connecting all the dots. The last se
 [IMG_0294.pdf](https://github.com/user-attachments/files/26648795/IMG_0294.pdf)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 This project draws on a combination of publicly available reports, organizational data hubs, and secondary research to examine representation and audience engagement in classical music. The primary data sources include the League of American Orchestras’ Racial/Ethnic and Gender Diversity in the Orchestra Field report, which provides demographic breakdowns of musicians, conductors, and leadership, as well as the organization’s Musician Diversity Data Hub, which offers longitudinal data on racial and ethnic representation in orchestras over time. Additional data on audience demographics is drawn from industry reports on orchestra audiences, while programming and repertoire representation is supported by findings from the Donne Foundation and academic studies on composer diversity. Because many of these sources are presented as reports or summaries rather than downloadable datasets, relevant statistics will be compiled and structured into original datasets for analysis and visualization.
 
